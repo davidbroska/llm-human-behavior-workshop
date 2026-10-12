@@ -1,0 +1,65 @@
+{
+  "source": "https://osf.io/j6wmn/",
+  "reading": "https://arxiv.org/abs/2409.00128v3",
+  "changes": "Selected files copied byte-for-byte; no transformations.",
+  "license": "No dataset licence declared in the OSF record checked 10 October 2026.",
+  "files": [
+    {
+      "file": "enhanced_dataset_GPT_main.csv",
+      "member": "GPT/enhanced_dataset_GPT_main.csv",
+      "source_url": "https://osf.io/download/9b2jg/",
+      "rows": 690,
+      "sha256": "06b9a520b4222d633c75f53a53adc66c2f8bfda776c17dd47355b38fb5de529c"
+    },
+    {
+      "file": "enhanced_dataset_GPT_int.csv",
+      "member": "GPT/enhanced_dataset_GPT_int.csv",
+      "source_url": "https://osf.io/download/9b2jg/",
+      "rows": 164,
+      "sha256": "6521d7676088d17e5a0800bf1ce1d265575e9b2dc8a127acb512cb9521951952"
+    },
+    {
+      "file": "enhanced_dataset_Claude_main.csv",
+      "member": "Claude/enhanced_dataset_Claude_main.csv",
+      "source_url": "https://osf.io/download/2w7cz/",
+      "rows": 683,
+      "sha256": "a81cfbc24c3f6296cd32da037dcd210f195b7a6de11e112f10f0eb8b1a4ff229"
+    },
+    {
+      "file": "enhanced_dataset_Claude_int.csv",
+      "member": "Claude/enhanced_dataset_Claude_int.csv",
+      "source_url": "https://osf.io/download/2w7cz/",
+      "rows": 164,
+      "sha256": "f69681cc3ad81e223010a71d03b6422fda2d46f9a07433aac7c0f163e1021484"
+    },
+    {
+      "file": "enhanced_dataset_DeepSeek_main.csv",
+      "member": "DeepSeek/enhanced_dataset_DeepSeek_main.csv",
+      "source_url": "https://osf.io/download/g9fnv/",
+      "rows": 618,
+      "sha256": "df0a1e53c84be39156c6142a3ffb6c3921fe9cfe25304d6cc095f9eb951d65a5"
+    },
+    {
+      "file": "enhanced_dataset_DeepSeek_int.csv",
+      "member": "DeepSeek/enhanced_dataset_DeepSeek_int.csv",
+      "source_url": "https://osf.io/download/g9fnv/",
+      "rows": 131,
+      "sha256": "39702b4f933d5f4caff8e378f98e4af7606bbb78bdd5c79094e2ff9f39e97ff4"
+    },
+    {
+      "file": "SOURCE_README.md",
+      "source_path": "README.md",
+      "sha256": "c93a40f8d6818b2d0177a82dbdd9565404f3c2ba83cde6315ef6e73a2b115aee"
+    },
+    {
+      "file": "README for data processing procedure.xlsx",
+      "source_path": "README for data processing procedure.xlsx",
+      "sha256": "990eec36e4286db1a0e3c5a6cb030abe1b5592f5fc2e2820b84b939473c033da"
+    },
+    {
+      "file": "study_info.xlsx",
+      "source_path": "02 Study-level analysis/study_info.xlsx",
+      "sha256": "5d94d16c39e791b3660d653fac31bac6ab2b26008e0af54077e7f2d83ae0a34d"
+    }
+  ]
+}

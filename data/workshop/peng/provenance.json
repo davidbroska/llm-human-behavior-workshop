@@ -1,0 +1,34 @@
+{
+  "source_url": "https://huggingface.co/datasets/LLM-Digital-Twin/Twin-2K-500-Mega-Study/resolve/0401b715a341ac4b5f98b4424b4aecf9d29570d0/results.zip",
+  "source_sha256": "548f9b2c4886515f670a0d98c1b32f90722278b976af9f31a231bf2e9dd6e2ed",
+  "default_outcome_members": [
+    "results/accuracy_nudges/full_persona_without_reasoning_2025-06-18/meta analysis individual level.csv",
+    "results/affective_priming/full_persona_without_reasoning_2025-06-18/meta analysis individual level.csv",
+    "results/consumer_minimalism/full_persona_without_reasoning_2025-06-26/meta analysis individual level.csv",
+    "results/context_effects/full_persona_without_reasoning_2025-06-18/meta analysis individual level.csv",
+    "results/default_eric/full_persona_without_reasoning_2025-06-18/meta analysis individual level.csv",
+    "results/digital_certification/full_persona_without_reasoning_2025-06-23/meta analysis individual level.csv",
+    "results/hiring_algorithms/full_persona_without_reasoning_2025-07-03/meta analysis individual level.csv",
+    "results/idea_evaluation/full_persona_without_reasoning_2025-07-03/meta analysis individual level.csv",
+    "results/idea_generation/full_persona_without_reasoning_2025-06-12/meta analysis individual level.csv",
+    "results/infotainment/full_persona_without_reasoning_2025-06-20/meta analysis individual level.csv",
+    "results/junk_fees/full_persona_without_reasoning_2025-07-04/meta analysis individual level.csv",
+    "results/obedient_twins/full_persona_without_reasoning_2025-06-26/meta analysis individual level.csv",
+    "results/preference_redistribution/full_persona_without_resoning_2025-07-06/meta analysis individual level.csv",
+    "results/privacy/full_persona_without_reasoning_2025-06-18/meta analysis individual level.csv",
+    "results/promiscuous_donors/full_persona_without_reasoning_2025-07-04/meta analysis individual level.csv",
+    "results/quantitative_intuition/full_persona_without_reasoning_2025-06-24/meta analysis individual level.csv",
+    "results/recommendation_algorithms/full_persona_without_reasoning_2025-07-22/meta analysis individual level.csv",
+    "results/story_beliefs/full_persona_without_reasoning_2025-06-20/meta analysis individual level.csv",
+    "results/targeting_fairness/full_persona_without_reasoning_2025-06-23/meta analysis individual level.csv"
+  ],
+  "candidate_rows": {
+    "green_energy.csv": 600,
+    "affective_gratitude.csv": 508,
+    "junk_fees.csv": 1200,
+    "gratitude_outcomes.csv": 1016,
+    "experimental_outcomes.csv": 1616
+  },
+  "selection": "Provisional teaching candidates chosen for interpretable outcomes; not a representative sample of predictive accuracy.",
+  "license": "Apache-2.0 (upstream dataset card)"
+}

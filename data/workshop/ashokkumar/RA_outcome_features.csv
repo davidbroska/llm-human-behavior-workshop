@@ -1,0 +1,135 @@
+study,outcome.name,outcome_existing_attitude
+ThorsonS42,Facebook,TRUE
+ThorsonS42,National newspapers,TRUE
+ThorsonS42,Local Newspapers,TRUE
+Blair1131,Approve_Handling,FALSE
+CalarcoS38,Approval,FALSE
+Cohen1099,History,FALSE
+Cohen1099,Nursing,FALSE
+Cohen1099,Accounting,FALSE
+HamiltonS31,belief_man_first,FALSE
+KrupnikovS34,partisanship,TRUE
+Melin1066,salary,FALSE
+Melin1066,Capable,FALSE
+Melin1066,masculine,FALSE
+Silverman1035,Americans_Killed,TRUE
+Silverman1035,Terrorism_worry,TRUE
+Silverman1035,Terrorism_likely,TRUE
+HankinsonS22,Clinic_support,FALSE
+Harbridge-Yong1032,Confidence_congress,TRUE
+Harbridge-Yong1032,Article_Support,FALSE
+Harbridge-Yong1032,Article_Fairness,FALSE
+Howat1039,Feeling_Dem,TRUE
+Howat1039,Feeling_DemPartySupporters,TRUE
+Howat1039,Personal_ideology,TRUE
+Kennedy1017,Family_approval,FALSE
+Kennedy1017,Family_friends,FALSE
+Kennedy1017,Family_knowledge,FALSE
+McCabeS19,Attribution,TRUE
+McCabeS19,Contact,TRUE
+MunschS68,Morgan_Committed,FALSE
+Rifkin1073,Stressed,FALSE
+RyanS14,rumor true - laundered money,FALSE
+Schnabel903,Feminine,FALSE
+Schnabel903,Masculine,FALSE
+ShannonS2,tax credit effective,FALSE
+ShannonS28,immigrant intake,TRUE
+Terman1029,naitonalist superiority,TRUE
+Terman1029,perception of domestic human rights conditions,TRUE
+Terman1029,donating to HRAC,TRUE
+Bougher893,warmth Candidate A,TRUE
+Bougher893,warmth Candidate B,TRUE
+Bougher893,warmth gop,TRUE
+FarrowS6,Disappointment,FALSE
+Haaland874,Racial Discrimination perception,TRUE
+Haaland874,Affirmative action: Preference,TRUE
+Haaland874,Affirmative action: Assistance,TRUE
+Williamson859,Food stamps,TRUE
+Williamson859,Social Security,TRUE
+Williamson859,Military,TRUE
+AnsonBRIEF60,economy_positivity,TRUE
+AnsonBRIEF60,blue_collar_positivity,TRUE
+Braman751,scholar_credibility,FALSE
+Braman751,pass_legislation,FALSE
+Braman751,legitimacy,FALSE
+CorstangeBRIEF69,welcome_refugees,TRUE
+WallaceS9,president_approval,FALSE
+WallaceS9,credibility,FALSE
+Campbell1308,Political Engagement,TRUE
+Campbell1308,Political Responsiveness,TRUE
+Campbell1308,Gender Roles,TRUE
+senS81,ideal_gender_male,TRUE
+FaheyS78,cancel culture,TRUE
+wayne841,CandidateSupportDT,TRUE
+wayne841,CandidateSupportHC,TRUE
+wayne841,CandidateSupportBC,TRUE
+willer845,race_threat,TRUE
+willer845,SupportTrump,TRUE
+willer845,SupportClinton,TRUE
+Craig735,Immigration,TRUE
+Craig735,Federal Funding,TRUE
+Craig735,Terrorist Interrogation,TRUE
+Enos700,modern_racism1,FALSE
+Howard823,predictedexpense_nextweek,TRUE
+Howard823,financial_slack,TRUE
+Howard823,Willingness_to_spend_on_optional_expense,TRUE
+Krupnikov719,abortion,TRUE
+Krupnikov719,systemic_racism,TRUE
+Krupnikov719,income,TRUE
+KuruB67,poll_accuracy,FALSE
+KuruB67,vote_choice,TRUE
+Levendusky741,Thermometer_dems,TRUE
+Levendusky741,social_distance,TRUE
+McGinty730,willingness_to_pay_mentalhealthservices,TRUE
+McGinty730,social_stigma,TRUE
+McGinty730,treatment_support,TRUE
+Merolla843,hillary_clinton_leadership,TRUE
+Merolla843,trump_leadership,TRUE
+Merolla843,foreign_policy,TRUE
+KlarBRIEF70,child_marries_dem,TRUE
+Iles1294,Confusing,TRUE
+Iles1294,Frustrated,FALSE
+Iles1294,collaborative,TRUE
+Mezzapelle1439,BELIEVABLE,FALSE
+Mezzapelle1439,PERCEIVED HARM,FALSE
+Mezzapelle1439,COMPENSATION,FALSE
+SchaadS62,still_identify,FALSE
+Connors1226,rate_democrats,TRUE
+Connors1226,rate_republicans,TRUE
+Connors1226,trust_democrats,TRUE
+Connors1226,trust_republicans,TRUE
+KlarS44,importance,TRUE
+KlarS44,efficacy,TRUE
+KlarS44,support_candidate,TRUE
+Stoker1063,Anger,FALSE
+Stoker1063,Worry,FALSE
+Stoker1063,Serious,FALSE
+bucci1408,Caught,FALSE
+bucci1408,Rewarding,FALSE
+bucci1408,Respect,FALSE
+bolsenM6,Using They/Them Pronouns,TRUE
+bolsenM6,They/Them Pronouns in Forms,TRUE
+bolsenM6,Providing Personal Pronouns,TRUE
+relihan1399,Perinia Accetis superbacteria,FALSE
+relihan1399,Influenza,FALSE
+relihan1399,COVID-19,FALSE
+immigration,Support for Immigration,TRUE
+death_penalty,Favor Death Penalty,TRUE
+patriot_act,Patriot Act Support,FALSE
+system_threat,Way of Life,TRUE
+brandtS1,coppock_dv_name,FALSE
+caprarielloS2,coppock_dv_name,FALSE
+flavinS4,coppock_dv_name,TRUE
+gashS5,coppock_dv_name,TRUE
+melloS6,coppock_dv_name,FALSE
+jacobsenS7,coppock_dv_name,FALSE
+piazzaS8,coppock_dv_name,FALSE
+shaferS9,coppock_dv_name,FALSE
+thompsonS10,coppock_dv_name,TRUE
+turagaS11,coppock_dv_name,TRUE
+wallaceS12,coppock_dv_name,FALSE
+parmerS15,coppock_dv_name,FALSE
+converseS16,coppock_dv_name,TRUE
+dennyS17,hardworking,FALSE
+pedullaS18,hiring recommendation,FALSE
+berganS20,support,FALSE

@@ -1,0 +1,15 @@
+{
+  "source_url": "https://codeocean.com/capsule/9843791/tree/v1",
+  "source_doi": "10.24433/CO.6384242.v1",
+  "capsule_sha256": "96e13b405e97700e041addb37a49f20d26d8c9d3d50d2ca8ed1b22121b7007f7",
+  "effects_sha256": "0da13b00b57f0ac861f42c996235f0bfee48b854d05a09ba412cf2bb2d9074d8",
+  "source_rows_in_two_arms": 1633,
+  "missing_human_outcome": 68,
+  "missing_prediction": 0,
+  "complete_rows": 1565,
+  "study": "Connors1226",
+  "outcome": "rate_republicans",
+  "matching": "GPT-4 weighted mean by condition and persona party, pooling template groups; joined to human condition and pid_3. Leaners mapped to their named party; other recognized affiliations to Independent.",
+  "selection": "Provisional teaching example; complete cases, both partisans and independents; outcome is one component, not the original polarization measure.",
+  "license": "CC0-1.0 (capsule data/LICENSE)"
+}

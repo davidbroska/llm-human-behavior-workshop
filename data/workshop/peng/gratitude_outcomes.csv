@@ -1,0 +1,1017 @@
+TWIN_ID,Y,Yhat,treated,variable_name,outcome,study
+9,3.583333333333333,4.416666666666667,0,gratitude,Downstream composite,affective_priming
+9,3.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+14,6.583333333333334,5.916666666666666,1,gratitude,Downstream composite,affective_priming
+14,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+18,6.416666666666666,6.0,0,gratitude,Downstream composite,affective_priming
+18,6.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+21,5.583333333333334,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+21,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+22,4.166666666666667,4.833333333333333,0,gratitude,Downstream composite,affective_priming
+22,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+23,5.333333333333334,5.833333333333334,0,gratitude,Downstream composite,affective_priming
+23,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+24,3.166666666666667,1.75,0,gratitude,Downstream composite,affective_priming
+24,1.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+30,2.75,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+30,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+35,4.25,3.0,1,gratitude,Downstream composite,affective_priming
+35,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+36,7.0,6.583333333333334,1,gratitude,Downstream composite,affective_priming
+36,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+40,3.5,4.083333333333334,1,gratitude,Downstream composite,affective_priming
+40,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+41,4.5,4.0,0,gratitude,Downstream composite,affective_priming
+41,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+43,5.75,3.583333333333333,0,gratitude,Downstream composite,affective_priming
+43,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+46,1.0,1.5,1,gratitude,Downstream composite,affective_priming
+46,1.0,2.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+47,5.083333333333334,2.25,0,gratitude,Downstream composite,affective_priming
+47,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+51,4.5,4.25,0,gratitude,Downstream composite,affective_priming
+51,4.666666666666667,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+52,4.916666666666667,5.166666666666666,0,gratitude,Downstream composite,affective_priming
+52,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+60,4.0,3.6666666666666665,0,gratitude,Downstream composite,affective_priming
+60,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+65,6.333333333333334,5.916666666666666,0,gratitude,Downstream composite,affective_priming
+65,6.0,5.666666666666667,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+68,6.583333333333334,3.333333333333333,0,gratitude,Downstream composite,affective_priming
+68,7.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+73,5.083333333333334,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+73,6.0,5.666666666666667,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+76,2.666666666666667,3.0,1,gratitude,Downstream composite,affective_priming
+76,4.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+79,5.583333333333334,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+79,6.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+80,2.25,1.8333333333333337,1,gratitude,Downstream composite,affective_priming
+80,4.0,2.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+84,4.916666666666667,4.5,0,gratitude,Downstream composite,affective_priming
+84,5.333333333333333,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+89,6.5,5.5,1,gratitude,Downstream composite,affective_priming
+89,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+90,4.083333333333333,5.25,0,gratitude,Downstream composite,affective_priming
+90,4.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+91,6.0,5.833333333333334,1,gratitude,Downstream composite,affective_priming
+91,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+121,3.583333333333333,3.416666666666667,1,gratitude,Downstream composite,affective_priming
+121,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+122,6.916666666666666,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+122,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+123,5.5,3.916666666666667,1,gratitude,Downstream composite,affective_priming
+123,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+124,3.9166666666666665,4.416666666666667,1,gratitude,Downstream composite,affective_priming
+124,5.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+130,4.75,4.25,0,gratitude,Downstream composite,affective_priming
+130,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+146,5.0,5.75,1,gratitude,Downstream composite,affective_priming
+146,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+147,5.916666666666666,4.333333333333334,0,gratitude,Downstream composite,affective_priming
+147,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+149,4.25,4.083333333333333,0,gratitude,Downstream composite,affective_priming
+149,4.666666666666667,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+154,5.083333333333334,4.916666666666666,0,gratitude,Downstream composite,affective_priming
+154,5.333333333333333,5.333333333333333,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+157,5.5,5.5,1,gratitude,Downstream composite,affective_priming
+157,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+160,3.4166666666666665,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+160,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+161,4.166666666666666,4.166666666666666,1,gratitude,Downstream composite,affective_priming
+161,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+164,5.833333333333334,5.25,1,gratitude,Downstream composite,affective_priming
+164,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+171,3.416666666666667,2.083333333333333,0,gratitude,Downstream composite,affective_priming
+171,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+173,6.75,4.833333333333333,1,gratitude,Downstream composite,affective_priming
+173,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+175,3.8333333333333335,3.416666666666667,0,gratitude,Downstream composite,affective_priming
+175,5.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+176,3.75,6.0,1,gratitude,Downstream composite,affective_priming
+176,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+178,4.5,3.666666666666667,0,gratitude,Downstream composite,affective_priming
+178,2.6666666666666665,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+181,6.5,5.5,1,gratitude,Downstream composite,affective_priming
+181,5.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+184,5.0,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+184,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+188,6.166666666666666,4.416666666666667,0,gratitude,Downstream composite,affective_priming
+188,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+189,3.083333333333333,4.25,0,gratitude,Downstream composite,affective_priming
+189,2.3333333333333335,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+197,4.833333333333334,5.416666666666666,0,gratitude,Downstream composite,affective_priming
+197,4.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+198,4.833333333333333,4.833333333333333,1,gratitude,Downstream composite,affective_priming
+198,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+202,4.5,4.5,0,gratitude,Downstream composite,affective_priming
+202,4.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+205,5.5,4.5,1,gratitude,Downstream composite,affective_priming
+205,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+209,3.8333333333333335,3.25,1,gratitude,Downstream composite,affective_priming
+209,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+214,6.833333333333334,4.5,1,gratitude,Downstream composite,affective_priming
+214,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+246,2.916666666666667,1.8333333333333337,0,gratitude,Downstream composite,affective_priming
+246,5.333333333333333,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+249,5.916666666666666,4.583333333333334,0,gratitude,Downstream composite,affective_priming
+249,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+251,3.916666666666667,6.0,0,gratitude,Downstream composite,affective_priming
+251,4.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+252,6.25,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+252,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+256,5.333333333333334,4.416666666666666,1,gratitude,Downstream composite,affective_priming
+256,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+257,4.833333333333334,4.25,1,gratitude,Downstream composite,affective_priming
+257,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+259,5.083333333333333,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+259,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+260,5.333333333333334,5.416666666666666,1,gratitude,Downstream composite,affective_priming
+260,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+263,4.333333333333334,6.5,1,gratitude,Downstream composite,affective_priming
+263,5.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+264,6.916666666666666,6.0,1,gratitude,Downstream composite,affective_priming
+264,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+266,6.166666666666666,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+266,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+269,4.833333333333334,3.583333333333333,0,gratitude,Downstream composite,affective_priming
+269,5.333333333333333,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+270,7.0,4.833333333333334,1,gratitude,Downstream composite,affective_priming
+270,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+271,6.166666666666666,6.25,0,gratitude,Downstream composite,affective_priming
+271,6.333333333333333,7.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+272,5.25,6.666666666666666,1,gratitude,Downstream composite,affective_priming
+272,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+273,6.75,4.333333333333334,1,gratitude,Downstream composite,affective_priming
+273,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+277,4.416666666666667,2.833333333333333,0,gratitude,Downstream composite,affective_priming
+277,3.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+280,6.583333333333334,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+280,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+295,4.833333333333333,3.9166666666666665,0,gratitude,Downstream composite,affective_priming
+295,2.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+300,6.25,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+300,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+301,5.833333333333334,5.25,1,gratitude,Downstream composite,affective_priming
+301,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+305,4.25,4.166666666666667,1,gratitude,Downstream composite,affective_priming
+305,4.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+312,2.083333333333333,3.166666666666667,0,gratitude,Downstream composite,affective_priming
+312,6.0,5.666666666666667,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+313,5.25,5.833333333333334,0,gratitude,Downstream composite,affective_priming
+313,2.6666666666666665,3.3333333333333335,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+317,7.0,6.0,1,gratitude,Downstream composite,affective_priming
+317,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+318,4.416666666666666,3.8333333333333335,1,gratitude,Downstream composite,affective_priming
+318,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+320,4.0,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+320,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+326,5.5,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+326,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+328,4.5,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+328,4.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+335,6.333333333333334,3.0,1,gratitude,Downstream composite,affective_priming
+335,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+337,3.75,3.5,1,gratitude,Downstream composite,affective_priming
+337,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+338,5.666666666666666,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+338,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+339,5.333333333333334,5.75,1,gratitude,Downstream composite,affective_priming
+339,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+348,6.333333333333334,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+348,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+352,5.666666666666666,5.5,0,gratitude,Downstream composite,affective_priming
+352,5.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+355,6.666666666666666,3.916666666666667,1,gratitude,Downstream composite,affective_priming
+355,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+356,6.166666666666666,3.0,0,gratitude,Downstream composite,affective_priming
+356,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+365,6.5,5.5,1,gratitude,Downstream composite,affective_priming
+365,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+378,5.416666666666667,5.166666666666666,0,gratitude,Downstream composite,affective_priming
+378,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+379,1.8333333333333333,2.833333333333333,0,gratitude,Downstream composite,affective_priming
+379,2.3333333333333335,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+380,4.083333333333334,4.083333333333334,0,gratitude,Downstream composite,affective_priming
+380,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+382,6.333333333333334,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+382,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+383,5.416666666666666,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+383,5.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+386,4.666666666666666,5.25,1,gratitude,Downstream composite,affective_priming
+386,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+392,4.333333333333334,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+392,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+396,7.0,6.25,1,gratitude,Downstream composite,affective_priming
+396,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+399,5.5,4.916666666666667,1,gratitude,Downstream composite,affective_priming
+399,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+401,3.666666666666667,3.666666666666667,0,gratitude,Downstream composite,affective_priming
+401,5.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+408,5.833333333333334,5.5,0,gratitude,Downstream composite,affective_priming
+408,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+416,5.416666666666666,3.333333333333333,0,gratitude,Downstream composite,affective_priming
+416,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+422,1.0,3.0,0,gratitude,Downstream composite,affective_priming
+422,2.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+423,6.0,4.083333333333334,0,gratitude,Downstream composite,affective_priming
+423,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+426,6.166666666666666,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+426,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+429,5.5,6.0,0,gratitude,Downstream composite,affective_priming
+429,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+436,4.583333333333333,5.5,1,gratitude,Downstream composite,affective_priming
+436,2.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+438,6.333333333333334,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+438,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+441,1.8333333333333337,4.416666666666666,1,gratitude,Downstream composite,affective_priming
+441,2.3333333333333335,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+447,5.166666666666666,2.833333333333333,0,gratitude,Downstream composite,affective_priming
+447,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+449,4.416666666666667,5.666666666666666,1,gratitude,Downstream composite,affective_priming
+449,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+455,4.583333333333334,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+455,3.6666666666666665,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+458,4.416666666666667,4.416666666666667,0,gratitude,Downstream composite,affective_priming
+458,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+462,4.0,4.416666666666666,0,gratitude,Downstream composite,affective_priming
+462,6.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+479,5.833333333333334,4.333333333333334,0,gratitude,Downstream composite,affective_priming
+479,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+481,4.166666666666667,3.5,1,gratitude,Downstream composite,affective_priming
+481,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+484,4.333333333333333,5.25,0,gratitude,Downstream composite,affective_priming
+484,6.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+488,3.5,3.416666666666667,1,gratitude,Downstream composite,affective_priming
+488,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+490,5.25,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+490,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+492,5.0,4.583333333333334,1,gratitude,Downstream composite,affective_priming
+492,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+500,4.166666666666667,5.416666666666667,0,gratitude,Downstream composite,affective_priming
+500,1.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+518,4.833333333333334,5.0,0,gratitude,Downstream composite,affective_priming
+518,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+530,6.0,5.25,0,gratitude,Downstream composite,affective_priming
+530,6.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+533,5.25,5.25,0,gratitude,Downstream composite,affective_priming
+533,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+541,3.916666666666667,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+541,6.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+542,4.5,2.1666666666666665,0,gratitude,Downstream composite,affective_priming
+542,2.3333333333333335,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+548,2.9166666666666665,2.25,1,gratitude,Downstream composite,affective_priming
+548,5.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+551,5.25,5.5,1,gratitude,Downstream composite,affective_priming
+551,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+555,6.833333333333334,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+555,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+556,5.333333333333334,3.75,1,gratitude,Downstream composite,affective_priming
+556,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+563,5.416666666666667,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+563,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+566,4.916666666666666,3.166666666666667,1,gratitude,Downstream composite,affective_priming
+566,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+569,5.0,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+569,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+575,5.416666666666666,4.0,1,gratitude,Downstream composite,affective_priming
+575,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+576,6.333333333333334,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+576,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+577,5.25,4.25,0,gratitude,Downstream composite,affective_priming
+577,5.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+579,6.083333333333334,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+579,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+580,5.333333333333334,4.5,0,gratitude,Downstream composite,affective_priming
+580,5.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+584,6.5,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+584,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+585,3.0,1.0833333333333337,0,gratitude,Downstream composite,affective_priming
+585,4.666666666666667,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+586,7.0,5.75,1,gratitude,Downstream composite,affective_priming
+586,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+590,6.5,5.0,0,gratitude,Downstream composite,affective_priming
+590,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+594,5.166666666666667,4.833333333333333,1,gratitude,Downstream composite,affective_priming
+594,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+597,5.916666666666666,5.5,0,gratitude,Downstream composite,affective_priming
+597,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+600,5.166666666666667,5.25,0,gratitude,Downstream composite,affective_priming
+600,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+607,5.166666666666666,6.5,0,gratitude,Downstream composite,affective_priming
+607,5.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+620,1.75,2.0,0,gratitude,Downstream composite,affective_priming
+620,7.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+623,2.833333333333333,3.1666666666666665,0,gratitude,Downstream composite,affective_priming
+623,5.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+625,5.583333333333334,3.75,0,gratitude,Downstream composite,affective_priming
+625,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+633,5.75,5.166666666666666,0,gratitude,Downstream composite,affective_priming
+633,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+635,6.0,2.666666666666667,0,gratitude,Downstream composite,affective_priming
+635,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+642,5.416666666666666,6.0,0,gratitude,Downstream composite,affective_priming
+642,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+643,5.583333333333334,5.0,0,gratitude,Downstream composite,affective_priming
+643,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+644,5.583333333333334,5.416666666666666,1,gratitude,Downstream composite,affective_priming
+644,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+646,5.166666666666667,4.666666666666667,0,gratitude,Downstream composite,affective_priming
+646,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+656,6.75,4.166666666666667,1,gratitude,Downstream composite,affective_priming
+656,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+658,4.833333333333333,4.833333333333333,1,gratitude,Downstream composite,affective_priming
+658,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+659,2.666666666666667,5.5,1,gratitude,Downstream composite,affective_priming
+659,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+663,5.5,5.916666666666666,0,gratitude,Downstream composite,affective_priming
+663,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+664,3.5,4.75,1,gratitude,Downstream composite,affective_priming
+664,1.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+670,5.833333333333334,4.25,0,gratitude,Downstream composite,affective_priming
+670,5.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+672,4.583333333333334,2.333333333333333,0,gratitude,Downstream composite,affective_priming
+672,7.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+675,6.333333333333334,5.25,1,gratitude,Downstream composite,affective_priming
+675,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+676,5.416666666666666,3.916666666666667,1,gratitude,Downstream composite,affective_priming
+676,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+678,5.25,5.0,1,gratitude,Downstream composite,affective_priming
+678,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+681,6.0,5.666666666666666,0,gratitude,Downstream composite,affective_priming
+681,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+685,6.5,5.0,0,gratitude,Downstream composite,affective_priming
+685,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+695,5.416666666666666,4.916666666666667,1,gratitude,Downstream composite,affective_priming
+695,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+696,2.6666666666666665,3.0,1,gratitude,Downstream composite,affective_priming
+696,6.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+699,5.25,5.25,0,gratitude,Downstream composite,affective_priming
+699,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+701,6.166666666666666,3.083333333333333,1,gratitude,Downstream composite,affective_priming
+701,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+707,5.666666666666666,5.75,1,gratitude,Downstream composite,affective_priming
+707,4.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+712,2.416666666666667,2.166666666666667,1,gratitude,Downstream composite,affective_priming
+712,5.0,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+713,4.75,5.666666666666666,1,gratitude,Downstream composite,affective_priming
+713,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+715,4.5,5.333333333333333,0,gratitude,Downstream composite,affective_priming
+715,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+719,5.5,5.25,0,gratitude,Downstream composite,affective_priming
+719,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+721,2.8333333333333335,5.75,1,gratitude,Downstream composite,affective_priming
+721,4.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+725,4.666666666666666,5.166666666666666,0,gratitude,Downstream composite,affective_priming
+725,6.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+729,4.166666666666667,3.333333333333333,0,gratitude,Downstream composite,affective_priming
+729,5.333333333333333,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+733,4.083333333333333,5.583333333333334,0,gratitude,Downstream composite,affective_priming
+733,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+734,5.666666666666666,5.25,1,gratitude,Downstream composite,affective_priming
+734,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+736,6.416666666666666,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+736,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+737,4.916666666666667,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+737,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+739,6.5,5.833333333333334,1,gratitude,Downstream composite,affective_priming
+739,5.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+740,3.666666666666667,3.416666666666667,0,gratitude,Downstream composite,affective_priming
+740,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+744,4.166666666666667,3.333333333333333,1,gratitude,Downstream composite,affective_priming
+744,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+745,4.25,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+745,4.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+746,5.833333333333334,4.5,1,gratitude,Downstream composite,affective_priming
+746,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+749,6.0,5.666666666666666,1,gratitude,Downstream composite,affective_priming
+749,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+753,4.833333333333333,3.083333333333333,0,gratitude,Downstream composite,affective_priming
+753,4.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+761,5.916666666666666,6.0,1,gratitude,Downstream composite,affective_priming
+761,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+767,5.416666666666667,4.583333333333334,0,gratitude,Downstream composite,affective_priming
+767,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+769,5.916666666666666,5.0,0,gratitude,Downstream composite,affective_priming
+769,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+770,3.6666666666666665,4.333333333333334,1,gratitude,Downstream composite,affective_priming
+770,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+773,5.416666666666667,5.916666666666666,0,gratitude,Downstream composite,affective_priming
+773,5.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+774,5.583333333333334,4.416666666666667,1,gratitude,Downstream composite,affective_priming
+774,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+776,4.666666666666667,4.75,1,gratitude,Downstream composite,affective_priming
+776,5.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+777,5.416666666666667,5.833333333333334,0,gratitude,Downstream composite,affective_priming
+777,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+786,4.75,4.25,0,gratitude,Downstream composite,affective_priming
+786,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+791,7.0,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+791,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+793,6.416666666666666,5.25,0,gratitude,Downstream composite,affective_priming
+793,6.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+797,3.0,4.25,0,gratitude,Downstream composite,affective_priming
+797,1.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+800,2.0,2.25,0,gratitude,Downstream composite,affective_priming
+800,5.666666666666667,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+802,2.916666666666667,3.75,0,gratitude,Downstream composite,affective_priming
+802,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+805,4.166666666666666,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+805,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+811,6.75,5.916666666666666,1,gratitude,Downstream composite,affective_priming
+811,6.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+821,4.0,4.083333333333334,0,gratitude,Downstream composite,affective_priming
+821,5.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+825,3.25,2.833333333333333,0,gratitude,Downstream composite,affective_priming
+825,5.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+828,4.583333333333333,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+828,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+830,5.25,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+830,5.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+832,5.083333333333334,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+832,4.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+833,4.0,5.5,1,gratitude,Downstream composite,affective_priming
+833,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+835,5.5,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+835,4.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+839,5.666666666666666,2.583333333333333,0,gratitude,Downstream composite,affective_priming
+839,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+848,5.5,5.666666666666666,0,gratitude,Downstream composite,affective_priming
+848,6.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+851,5.083333333333334,4.583333333333334,0,gratitude,Downstream composite,affective_priming
+851,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+854,6.583333333333334,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+854,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+861,4.416666666666667,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+861,1.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+864,5.833333333333334,4.833333333333334,0,gratitude,Downstream composite,affective_priming
+864,5.333333333333333,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+865,5.083333333333334,4.333333333333334,1,gratitude,Downstream composite,affective_priming
+865,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+869,5.75,4.666666666666666,0,gratitude,Downstream composite,affective_priming
+869,5.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+874,7.0,6.583333333333334,1,gratitude,Downstream composite,affective_priming
+874,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+882,4.583333333333333,4.583333333333333,0,gratitude,Downstream composite,affective_priming
+882,2.6666666666666665,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+883,5.083333333333334,4.416666666666667,0,gratitude,Downstream composite,affective_priming
+883,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+905,4.5,4.833333333333333,1,gratitude,Downstream composite,affective_priming
+905,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+913,5.833333333333334,6.5,1,gratitude,Downstream composite,affective_priming
+913,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+918,6.5,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+918,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+921,5.833333333333334,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+921,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+925,5.916666666666666,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+925,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+930,5.666666666666666,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+930,6.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+938,5.0,3.666666666666667,1,gratitude,Downstream composite,affective_priming
+938,6.666666666666667,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+941,6.666666666666666,6.416666666666666,0,gratitude,Downstream composite,affective_priming
+941,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+947,4.333333333333333,4.833333333333333,0,gratitude,Downstream composite,affective_priming
+947,2.3333333333333335,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+951,4.416666666666666,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+951,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+952,6.416666666666666,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+952,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+954,5.416666666666666,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+954,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+964,4.5,2.666666666666667,0,gratitude,Downstream composite,affective_priming
+964,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+965,6.75,6.25,0,gratitude,Downstream composite,affective_priming
+965,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+966,3.9166666666666665,3.0,0,gratitude,Downstream composite,affective_priming
+966,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+967,5.166666666666666,3.8333333333333335,1,gratitude,Downstream composite,affective_priming
+967,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+968,5.75,6.416666666666666,1,gratitude,Downstream composite,affective_priming
+968,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+971,4.0,4.833333333333333,0,gratitude,Downstream composite,affective_priming
+971,4.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+975,3.5,4.916666666666667,0,gratitude,Downstream composite,affective_priming
+975,3.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+976,6.416666666666666,5.0,1,gratitude,Downstream composite,affective_priming
+976,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+980,2.083333333333333,3.416666666666667,0,gratitude,Downstream composite,affective_priming
+980,2.3333333333333335,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+981,6.916666666666666,5.75,1,gratitude,Downstream composite,affective_priming
+981,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+984,6.0,6.0,1,gratitude,Downstream composite,affective_priming
+984,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+985,4.083333333333333,3.75,1,gratitude,Downstream composite,affective_priming
+985,3.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+989,6.5,6.083333333333334,0,gratitude,Downstream composite,affective_priming
+989,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+991,5.333333333333334,5.5,1,gratitude,Downstream composite,affective_priming
+991,5.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+995,4.166666666666666,3.666666666666667,1,gratitude,Downstream composite,affective_priming
+995,4.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1001,3.75,2.833333333333333,0,gratitude,Downstream composite,affective_priming
+1001,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1012,5.583333333333334,5.5,1,gratitude,Downstream composite,affective_priming
+1012,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1016,4.5,4.833333333333333,0,gratitude,Downstream composite,affective_priming
+1016,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1019,6.25,5.5,1,gratitude,Downstream composite,affective_priming
+1019,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1020,6.25,5.833333333333334,0,gratitude,Downstream composite,affective_priming
+1020,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1023,4.583333333333334,5.25,0,gratitude,Downstream composite,affective_priming
+1023,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1035,4.583333333333334,2.666666666666667,0,gratitude,Downstream composite,affective_priming
+1035,4.666666666666667,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1037,5.333333333333334,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+1037,1.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1038,4.416666666666666,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+1038,4.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1039,5.916666666666666,5.5,0,gratitude,Downstream composite,affective_priming
+1039,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1044,4.25,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+1044,4.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1045,5.666666666666666,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1045,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1049,5.916666666666666,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+1049,5.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1050,6.416666666666666,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+1050,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1052,4.416666666666667,5.25,0,gratitude,Downstream composite,affective_priming
+1052,3.6666666666666665,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1055,5.916666666666666,5.916666666666666,1,gratitude,Downstream composite,affective_priming
+1055,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1056,6.25,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+1056,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1062,4.0,3.666666666666667,1,gratitude,Downstream composite,affective_priming
+1062,7.0,5.666666666666667,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1064,4.083333333333333,4.416666666666667,0,gratitude,Downstream composite,affective_priming
+1064,4.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1070,4.583333333333333,5.416666666666666,0,gratitude,Downstream composite,affective_priming
+1070,4.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1072,5.666666666666666,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1072,6.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1083,7.0,5.333333333333334,0,gratitude,Downstream composite,affective_priming
+1083,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1084,5.583333333333334,5.0,0,gratitude,Downstream composite,affective_priming
+1084,5.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1086,6.75,5.416666666666666,1,gratitude,Downstream composite,affective_priming
+1086,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1087,3.0,4.666666666666667,0,gratitude,Downstream composite,affective_priming
+1087,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1089,5.666666666666666,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+1089,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1092,5.833333333333334,4.75,0,gratitude,Downstream composite,affective_priming
+1092,4.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1097,6.166666666666666,4.166666666666666,0,gratitude,Downstream composite,affective_priming
+1097,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1098,3.25,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+1098,2.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1099,3.5,2.9166666666666665,0,gratitude,Downstream composite,affective_priming
+1099,2.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1129,3.916666666666667,3.166666666666667,1,gratitude,Downstream composite,affective_priming
+1129,6.0,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1130,6.0,5.5,0,gratitude,Downstream composite,affective_priming
+1130,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1142,3.5833333333333335,3.5,1,gratitude,Downstream composite,affective_priming
+1142,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1144,4.5,4.5,1,gratitude,Downstream composite,affective_priming
+1144,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1147,5.0,4.75,1,gratitude,Downstream composite,affective_priming
+1147,4.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1149,5.416666666666666,4.916666666666667,0,gratitude,Downstream composite,affective_priming
+1149,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1151,3.5,2.666666666666667,1,gratitude,Downstream composite,affective_priming
+1151,5.333333333333333,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1155,6.333333333333334,6.166666666666666,0,gratitude,Downstream composite,affective_priming
+1155,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1157,6.25,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+1157,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1161,6.75,5.416666666666666,1,gratitude,Downstream composite,affective_priming
+1161,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1166,4.75,4.916666666666667,0,gratitude,Downstream composite,affective_priming
+1166,6.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1168,5.666666666666666,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+1168,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1176,4.083333333333333,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+1176,4.333333333333333,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1181,1.8333333333333333,4.25,1,gratitude,Downstream composite,affective_priming
+1181,3.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1184,2.25,3.1666666666666665,0,gratitude,Downstream composite,affective_priming
+1184,1.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1185,4.666666666666667,4.75,0,gratitude,Downstream composite,affective_priming
+1185,2.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1189,5.25,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+1189,4.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1190,6.666666666666666,4.916666666666667,1,gratitude,Downstream composite,affective_priming
+1190,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1194,2.75,4.583333333333333,1,gratitude,Downstream composite,affective_priming
+1194,4.0,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1197,3.8333333333333335,4.416666666666666,0,gratitude,Downstream composite,affective_priming
+1197,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1198,5.583333333333334,3.8333333333333335,1,gratitude,Downstream composite,affective_priming
+1198,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1199,4.25,4.666666666666667,1,gratitude,Downstream composite,affective_priming
+1199,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1202,4.833333333333334,3.166666666666667,1,gratitude,Downstream composite,affective_priming
+1202,7.0,4.666666666666667,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1207,6.083333333333334,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+1207,7.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1209,6.916666666666666,6.5,1,gratitude,Downstream composite,affective_priming
+1209,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1210,5.0,4.0,0,gratitude,Downstream composite,affective_priming
+1210,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1211,5.833333333333334,5.833333333333334,1,gratitude,Downstream composite,affective_priming
+1211,4.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1218,4.583333333333334,3.5833333333333335,0,gratitude,Downstream composite,affective_priming
+1218,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1220,1.0,2.0833333333333335,0,gratitude,Downstream composite,affective_priming
+1220,1.0,1.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1221,6.083333333333334,4.25,0,gratitude,Downstream composite,affective_priming
+1221,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1222,6.5,3.166666666666667,1,gratitude,Downstream composite,affective_priming
+1222,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1223,6.333333333333334,5.25,1,gratitude,Downstream composite,affective_priming
+1223,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1228,5.5,5.666666666666666,1,gratitude,Downstream composite,affective_priming
+1228,6.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1230,4.25,4.0,0,gratitude,Downstream composite,affective_priming
+1230,5.666666666666667,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1231,3.916666666666667,4.333333333333334,1,gratitude,Downstream composite,affective_priming
+1231,4.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1241,3.0833333333333335,4.083333333333334,1,gratitude,Downstream composite,affective_priming
+1241,3.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1247,4.5,3.25,1,gratitude,Downstream composite,affective_priming
+1247,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1248,5.5,4.75,0,gratitude,Downstream composite,affective_priming
+1248,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1249,4.916666666666667,3.5,0,gratitude,Downstream composite,affective_priming
+1249,4.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1256,4.416666666666667,4.833333333333334,1,gratitude,Downstream composite,affective_priming
+1256,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1260,5.416666666666667,5.583333333333334,0,gratitude,Downstream composite,affective_priming
+1260,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1269,2.0,3.416666666666667,0,gratitude,Downstream composite,affective_priming
+1269,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1270,5.5,3.6666666666666665,0,gratitude,Downstream composite,affective_priming
+1270,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1278,5.0,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+1278,5.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1280,4.833333333333334,2.25,0,gratitude,Downstream composite,affective_priming
+1280,6.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1281,4.666666666666666,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+1281,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1282,4.666666666666666,4.583333333333334,0,gratitude,Downstream composite,affective_priming
+1282,6.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1292,5.5,6.0,1,gratitude,Downstream composite,affective_priming
+1292,4.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1293,6.833333333333334,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+1293,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1294,3.5833333333333335,2.4166666666666665,0,gratitude,Downstream composite,affective_priming
+1294,5.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1295,6.333333333333334,6.25,0,gratitude,Downstream composite,affective_priming
+1295,6.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1296,4.833333333333333,5.333333333333334,0,gratitude,Downstream composite,affective_priming
+1296,5.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1299,5.666666666666666,5.75,0,gratitude,Downstream composite,affective_priming
+1299,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1307,6.583333333333334,1.75,0,gratitude,Downstream composite,affective_priming
+1307,6.666666666666667,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1309,5.916666666666666,3.25,0,gratitude,Downstream composite,affective_priming
+1309,7.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1315,4.333333333333334,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1315,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1316,6.166666666666666,5.666666666666666,1,gratitude,Downstream composite,affective_priming
+1316,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1319,4.583333333333334,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+1319,6.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1321,4.25,4.416666666666666,1,gratitude,Downstream composite,affective_priming
+1321,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1323,3.25,4.5,1,gratitude,Downstream composite,affective_priming
+1323,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1329,5.5,4.75,0,gratitude,Downstream composite,affective_priming
+1329,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1348,5.666666666666666,6.25,1,gratitude,Downstream composite,affective_priming
+1348,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1349,4.916666666666666,3.333333333333333,0,gratitude,Downstream composite,affective_priming
+1349,6.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1350,3.833333333333333,4.0,0,gratitude,Downstream composite,affective_priming
+1350,4.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1351,3.4166666666666665,3.333333333333333,1,gratitude,Downstream composite,affective_priming
+1351,5.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1352,3.25,3.25,1,gratitude,Downstream composite,affective_priming
+1352,1.0,3.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1353,6.166666666666666,5.666666666666666,1,gratitude,Downstream composite,affective_priming
+1353,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1354,4.916666666666666,5.0,0,gratitude,Downstream composite,affective_priming
+1354,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1356,3.583333333333333,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1356,2.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1358,4.416666666666667,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1358,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1362,4.916666666666667,4.666666666666667,0,gratitude,Downstream composite,affective_priming
+1362,6.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1367,6.333333333333334,5.75,0,gratitude,Downstream composite,affective_priming
+1367,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1369,4.083333333333333,2.666666666666667,1,gratitude,Downstream composite,affective_priming
+1369,7.0,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1375,4.166666666666667,5.583333333333334,0,gratitude,Downstream composite,affective_priming
+1375,5.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1378,6.166666666666666,3.833333333333333,1,gratitude,Downstream composite,affective_priming
+1378,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1383,5.75,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+1383,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1384,2.8333333333333335,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+1384,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1389,6.166666666666666,6.166666666666666,1,gratitude,Downstream composite,affective_priming
+1389,5.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1394,2.583333333333333,1.8333333333333337,0,gratitude,Downstream composite,affective_priming
+1394,4.666666666666667,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1395,2.0,2.0,0,gratitude,Downstream composite,affective_priming
+1395,2.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1397,5.916666666666666,5.0,1,gratitude,Downstream composite,affective_priming
+1397,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1401,5.0,4.75,1,gratitude,Downstream composite,affective_priming
+1401,1.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1402,3.583333333333333,2.75,1,gratitude,Downstream composite,affective_priming
+1402,5.0,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1412,4.833333333333334,4.833333333333333,0,gratitude,Downstream composite,affective_priming
+1412,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1420,3.75,4.833333333333334,1,gratitude,Downstream composite,affective_priming
+1420,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1421,5.0,3.083333333333333,1,gratitude,Downstream composite,affective_priming
+1421,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1422,6.166666666666666,6.083333333333334,0,gratitude,Downstream composite,affective_priming
+1422,6.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1425,5.833333333333334,4.5,0,gratitude,Downstream composite,affective_priming
+1425,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1426,4.0,4.25,1,gratitude,Downstream composite,affective_priming
+1426,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1430,6.666666666666666,4.5,1,gratitude,Downstream composite,affective_priming
+1430,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1435,5.833333333333334,5.5,0,gratitude,Downstream composite,affective_priming
+1435,4.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1437,5.166666666666667,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+1437,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1440,6.0,5.333333333333334,0,gratitude,Downstream composite,affective_priming
+1440,6.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1442,4.25,3.25,0,gratitude,Downstream composite,affective_priming
+1442,6.333333333333333,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1445,4.25,5.166666666666666,0,gratitude,Downstream composite,affective_priming
+1445,5.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1447,4.25,5.583333333333334,0,gratitude,Downstream composite,affective_priming
+1447,5.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1450,3.916666666666667,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+1450,1.6666666666666667,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1451,5.0,2.833333333333333,1,gratitude,Downstream composite,affective_priming
+1451,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1455,6.0,5.333333333333334,0,gratitude,Downstream composite,affective_priming
+1455,5.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1459,3.583333333333333,4.416666666666667,0,gratitude,Downstream composite,affective_priming
+1459,2.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1460,5.416666666666666,4.916666666666666,1,gratitude,Downstream composite,affective_priming
+1460,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1461,5.75,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+1461,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1470,5.416666666666667,6.25,1,gratitude,Downstream composite,affective_priming
+1470,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1479,4.833333333333334,5.416666666666666,0,gratitude,Downstream composite,affective_priming
+1479,4.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1481,7.0,5.0,0,gratitude,Downstream composite,affective_priming
+1481,7.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1485,2.833333333333333,4.833333333333334,1,gratitude,Downstream composite,affective_priming
+1485,3.6666666666666665,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1493,5.916666666666666,6.166666666666666,0,gratitude,Downstream composite,affective_priming
+1493,5.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1498,3.416666666666667,3.75,0,gratitude,Downstream composite,affective_priming
+1498,4.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1500,5.583333333333334,5.916666666666666,1,gratitude,Downstream composite,affective_priming
+1500,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1501,2.083333333333333,3.25,1,gratitude,Downstream composite,affective_priming
+1501,4.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1508,4.25,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+1508,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1514,4.5,4.25,1,gratitude,Downstream composite,affective_priming
+1514,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1527,6.333333333333334,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+1527,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1535,4.25,2.916666666666667,0,gratitude,Downstream composite,affective_priming
+1535,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1557,5.916666666666666,5.416666666666667,0,gratitude,Downstream composite,affective_priming
+1557,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1561,4.666666666666667,4.0,0,gratitude,Downstream composite,affective_priming
+1561,3.6666666666666665,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1567,4.166666666666667,5.916666666666666,0,gratitude,Downstream composite,affective_priming
+1567,2.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1575,4.333333333333334,3.0,0,gratitude,Downstream composite,affective_priming
+1575,4.666666666666667,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1576,4.25,1.9166666666666663,0,gratitude,Downstream composite,affective_priming
+1576,5.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1579,3.583333333333333,4.416666666666666,1,gratitude,Downstream composite,affective_priming
+1579,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1580,6.333333333333334,6.25,0,gratitude,Downstream composite,affective_priming
+1580,5.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1584,6.75,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1584,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1589,4.25,3.25,0,gratitude,Downstream composite,affective_priming
+1589,5.333333333333333,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1595,3.666666666666667,3.166666666666667,1,gratitude,Downstream composite,affective_priming
+1595,3.6666666666666665,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1601,4.0,3.5,1,gratitude,Downstream composite,affective_priming
+1601,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1603,6.0,6.583333333333334,1,gratitude,Downstream composite,affective_priming
+1603,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1605,5.75,5.916666666666666,1,gratitude,Downstream composite,affective_priming
+1605,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1606,6.0,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+1606,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1614,5.25,2.916666666666667,0,gratitude,Downstream composite,affective_priming
+1614,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1619,5.916666666666666,5.833333333333334,1,gratitude,Downstream composite,affective_priming
+1619,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1626,7.0,6.75,1,gratitude,Downstream composite,affective_priming
+1626,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1628,3.8333333333333335,3.9166666666666665,1,gratitude,Downstream composite,affective_priming
+1628,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1633,6.083333333333334,6.333333333333334,0,gratitude,Downstream composite,affective_priming
+1633,4.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1640,7.0,6.333333333333334,1,gratitude,Downstream composite,affective_priming
+1640,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1641,5.416666666666667,4.25,0,gratitude,Downstream composite,affective_priming
+1641,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1648,5.333333333333334,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+1648,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1649,5.916666666666666,5.833333333333334,0,gratitude,Downstream composite,affective_priming
+1649,4.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1650,4.25,5.333333333333333,0,gratitude,Downstream composite,affective_priming
+1650,1.6666666666666667,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1655,4.666666666666666,5.583333333333334,0,gratitude,Downstream composite,affective_priming
+1655,5.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1662,5.416666666666666,4.0,0,gratitude,Downstream composite,affective_priming
+1662,6.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1663,5.5,6.166666666666666,1,gratitude,Downstream composite,affective_priming
+1663,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1668,4.5,3.833333333333333,1,gratitude,Downstream composite,affective_priming
+1668,6.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1669,5.833333333333334,4.833333333333333,1,gratitude,Downstream composite,affective_priming
+1669,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1677,6.916666666666666,6.333333333333334,1,gratitude,Downstream composite,affective_priming
+1677,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1679,4.166666666666666,4.416666666666666,1,gratitude,Downstream composite,affective_priming
+1679,5.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1682,4.166666666666666,5.5,1,gratitude,Downstream composite,affective_priming
+1682,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1684,4.083333333333333,4.5,0,gratitude,Downstream composite,affective_priming
+1684,4.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1685,5.416666666666666,4.916666666666667,0,gratitude,Downstream composite,affective_priming
+1685,5.666666666666667,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1686,6.25,3.25,1,gratitude,Downstream composite,affective_priming
+1686,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1690,3.5833333333333335,4.0,1,gratitude,Downstream composite,affective_priming
+1690,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1692,5.5,5.166666666666667,0,gratitude,Downstream composite,affective_priming
+1692,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1696,4.0,5.416666666666666,0,gratitude,Downstream composite,affective_priming
+1696,3.6666666666666665,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1697,3.583333333333333,5.166666666666666,0,gratitude,Downstream composite,affective_priming
+1697,6.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1698,6.25,5.333333333333334,0,gratitude,Downstream composite,affective_priming
+1698,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1709,4.333333333333333,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+1709,5.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1713,4.083333333333333,2.666666666666667,1,gratitude,Downstream composite,affective_priming
+1713,2.0,4.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1715,6.416666666666666,4.833333333333333,0,gratitude,Downstream composite,affective_priming
+1715,7.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1717,5.333333333333334,4.0,0,gratitude,Downstream composite,affective_priming
+1717,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1723,5.083333333333333,4.666666666666667,1,gratitude,Downstream composite,affective_priming
+1723,5.666666666666667,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1730,4.0,4.75,0,gratitude,Downstream composite,affective_priming
+1730,3.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1735,6.5,5.5,0,gratitude,Downstream composite,affective_priming
+1735,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1736,5.25,5.416666666666666,1,gratitude,Downstream composite,affective_priming
+1736,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1737,6.083333333333334,6.166666666666666,1,gratitude,Downstream composite,affective_priming
+1737,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1740,5.083333333333334,4.5,1,gratitude,Downstream composite,affective_priming
+1740,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1744,5.583333333333334,5.833333333333334,1,gratitude,Downstream composite,affective_priming
+1744,5.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1748,5.583333333333334,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+1748,6.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1751,5.5,5.5,1,gratitude,Downstream composite,affective_priming
+1751,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1759,5.5,6.25,1,gratitude,Downstream composite,affective_priming
+1759,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1767,4.833333333333334,4.5,0,gratitude,Downstream composite,affective_priming
+1767,5.333333333333333,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1770,5.666666666666666,5.416666666666666,1,gratitude,Downstream composite,affective_priming
+1770,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1774,5.5,6.0,1,gratitude,Downstream composite,affective_priming
+1774,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1777,4.583333333333333,5.083333333333334,0,gratitude,Downstream composite,affective_priming
+1777,1.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1778,5.416666666666666,5.0,1,gratitude,Downstream composite,affective_priming
+1778,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1785,6.75,5.833333333333334,1,gratitude,Downstream composite,affective_priming
+1785,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1786,5.916666666666666,5.583333333333334,1,gratitude,Downstream composite,affective_priming
+1786,6.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1788,5.583333333333334,5.666666666666666,1,gratitude,Downstream composite,affective_priming
+1788,5.666666666666667,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1793,3.5,3.75,1,gratitude,Downstream composite,affective_priming
+1793,4.333333333333333,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1798,5.083333333333334,2.0,0,gratitude,Downstream composite,affective_priming
+1798,5.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1803,5.5,5.25,0,gratitude,Downstream composite,affective_priming
+1803,6.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1805,2.5,2.4166666666666665,0,gratitude,Downstream composite,affective_priming
+1805,4.666666666666667,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1807,3.416666666666667,3.833333333333333,0,gratitude,Downstream composite,affective_priming
+1807,1.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1810,6.5,6.583333333333334,1,gratitude,Downstream composite,affective_priming
+1810,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1824,2.833333333333333,3.5,0,gratitude,Downstream composite,affective_priming
+1824,1.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1835,3.0833333333333335,2.916666666666667,1,gratitude,Downstream composite,affective_priming
+1835,5.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1836,6.0,4.833333333333334,1,gratitude,Downstream composite,affective_priming
+1836,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1842,6.75,3.0,0,gratitude,Downstream composite,affective_priming
+1842,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1843,5.0,4.083333333333334,1,gratitude,Downstream composite,affective_priming
+1843,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1845,5.5,6.25,0,gratitude,Downstream composite,affective_priming
+1845,6.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1846,5.25,4.75,0,gratitude,Downstream composite,affective_priming
+1846,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1848,7.0,5.916666666666666,1,gratitude,Downstream composite,affective_priming
+1848,7.0,7.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1851,4.166666666666667,4.833333333333333,0,gratitude,Downstream composite,affective_priming
+1851,3.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1857,6.25,3.916666666666667,0,gratitude,Downstream composite,affective_priming
+1857,6.333333333333333,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1858,4.25,3.333333333333333,0,gratitude,Downstream composite,affective_priming
+1858,7.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1862,5.75,4.5,0,gratitude,Downstream composite,affective_priming
+1862,6.0,3.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1864,5.666666666666666,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+1864,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1880,4.666666666666667,5.25,0,gratitude,Downstream composite,affective_priming
+1880,1.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1890,1.9166666666666667,3.833333333333333,1,gratitude,Downstream composite,affective_priming
+1890,7.0,5.333333333333333,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1896,6.666666666666666,5.166666666666666,0,gratitude,Downstream composite,affective_priming
+1896,6.666666666666667,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1899,5.166666666666666,6.25,1,gratitude,Downstream composite,affective_priming
+1899,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1909,5.583333333333334,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1909,4.0,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1913,5.583333333333334,4.25,0,gratitude,Downstream composite,affective_priming
+1913,7.0,2.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1928,5.75,5.333333333333334,0,gratitude,Downstream composite,affective_priming
+1928,5.666666666666667,5.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1932,2.666666666666667,4.333333333333333,0,gratitude,Downstream composite,affective_priming
+1932,3.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1936,4.583333333333333,3.1666666666666665,1,gratitude,Downstream composite,affective_priming
+1936,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1943,5.5,5.333333333333334,1,gratitude,Downstream composite,affective_priming
+1943,7.0,5.666666666666667,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1946,6.166666666666666,6.083333333333334,1,gratitude,Downstream composite,affective_priming
+1946,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1953,6.416666666666666,5.5,1,gratitude,Downstream composite,affective_priming
+1953,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1954,6.0,5.5,1,gratitude,Downstream composite,affective_priming
+1954,6.333333333333333,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1960,6.833333333333334,5.916666666666666,1,gratitude,Downstream composite,affective_priming
+1960,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1970,6.916666666666666,6.25,1,gratitude,Downstream composite,affective_priming
+1970,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1972,5.583333333333334,5.25,1,gratitude,Downstream composite,affective_priming
+1972,7.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1985,5.5,5.5,1,gratitude,Downstream composite,affective_priming
+1985,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1986,3.833333333333333,2.916666666666667,0,gratitude,Downstream composite,affective_priming
+1986,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1997,4.916666666666666,6.25,1,gratitude,Downstream composite,affective_priming
+1997,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+1999,5.75,5.083333333333334,1,gratitude,Downstream composite,affective_priming
+1999,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2018,5.333333333333334,4.75,0,gratitude,Downstream composite,affective_priming
+2018,5.0,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2021,2.8333333333333335,3.666666666666667,0,gratitude,Downstream composite,affective_priming
+2021,6.666666666666667,5.666666666666667,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2022,5.583333333333334,5.416666666666666,1,gratitude,Downstream composite,affective_priming
+2022,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2026,4.666666666666667,5.166666666666666,1,gratitude,Downstream composite,affective_priming
+2026,6.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2029,5.666666666666666,4.666666666666667,0,gratitude,Downstream composite,affective_priming
+2029,6.666666666666667,4.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2034,4.583333333333333,4.416666666666667,1,gratitude,Downstream composite,affective_priming
+2034,4.0,5.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2047,4.166666666666666,2.75,1,gratitude,Downstream composite,affective_priming
+2047,7.0,6.0,1,gratitude_manipulation_check,Gratitude manipulation check,affective_priming
+2058,4.75,6.25,0,gratitude,Downstream composite,affective_priming
+2058,6.0,6.0,0,gratitude_manipulation_check,Gratitude manipulation check,affective_priming

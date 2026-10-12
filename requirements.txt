@@ -1,0 +1,6 @@
+numpy==2.3.5
+pandas==2.3.3
+matplotlib==3.10.6
+openpyxl==3.1.5
+jupyterlab==4.4.7
+ppi-python @ https://github.com/Michael-Howes/ppi_py/archive/2dc0ceede320ddf81b4d1050df04fbd1f48bd31b.zip

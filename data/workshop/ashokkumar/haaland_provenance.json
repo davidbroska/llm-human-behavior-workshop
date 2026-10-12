@@ -1,0 +1,33 @@
+{
+  "source_url": "https://codeocean.com/capsule/9843791/tree/v1",
+  "source_sha256": "96e13b405e97700e041addb37a49f20d26d8c9d3d50d2ca8ed1b22121b7007f7",
+  "study": "Haaland874",
+  "model": "gpt-4",
+  "matching": "Weighted persona predictions by outcome, condition and party; all GPT-4 templates pooled. Leaners assigned to their named party. No human outcomes used in prediction.",
+  "scale": "Original 1\u20135 scales, larger values mean greater seriousness or support.",
+  "identifier": "source_row is local to each outcome table; do not join outcomes by row position.",
+  "exclusions": [
+    {
+      "outcome": "Affirmative action: Assistance",
+      "source_rows": 1542,
+      "missing_Y": 9,
+      "missing_Yhat": 5,
+      "complete_rows": 1529
+    },
+    {
+      "outcome": "Affirmative action: Preference",
+      "source_rows": 1542,
+      "missing_Y": 7,
+      "missing_Yhat": 5,
+      "complete_rows": 1532
+    },
+    {
+      "outcome": "Racial Discrimination perception",
+      "source_rows": 1542,
+      "missing_Y": 4,
+      "missing_Yhat": 5,
+      "complete_rows": 1534
+    }
+  ],
+  "license": "CC0-1.0"
+}

@@ -1,0 +1,28 @@
+model,study_id,effect_id,range,outcome,human_point,human_range,model_point,model_range
+GPT,JPSP_9_1,514,Bolstering range,Anticipated settlement value,83.7,89.1,92.61039,100.576923
+GPT,JPSP_9_1,515,Bolstering range,Assumed counterpart reservation price,77.0,83.3,83.246753,94.320513
+GPT,JPSP_9_1,516,Bolstering range,Counter offer,73.3,77.4,85.584416,93.141026
+GPT,JPSP_9_1,517,Bracketing range,Anticipated settlement value,83.7,80.7,92.61039,91.551282
+GPT,JPSP_9_1,518,Bracketing range,Assumed counterpart reservation price,77.0,79.3,83.246753,85.333333
+GPT,JPSP_9_1,519,Bracketing range,Counter offer,73.3,74.0,85.584416,86.448718
+GPT,JPSP_9_1,520,Backdown range,Anticipated settlement value,83.7,72.9,92.61039,81.337662
+GPT,JPSP_9_1,521,Backdown range,Assumed counterpart reservation price,77.0,68.1,83.246753,74.948052
+GPT,JPSP_9_1,522,Backdown range,Counter offer,73.3,65.4,85.584416,75.064935
+Claude,JPSP_9_1,514,Bolstering range,Anticipated settlement value,83.7,89.1,86.25974,102.974359
+Claude,JPSP_9_1,515,Bolstering range,Assumed counterpart reservation price,77.0,83.3,73.74026,91.153846
+Claude,JPSP_9_1,516,Bolstering range,Counter offer,73.3,77.4,74.558442,93.833333
+Claude,JPSP_9_1,517,Bracketing range,Anticipated settlement value,83.7,80.7,86.25974,90.74359
+Claude,JPSP_9_1,518,Bracketing range,Assumed counterpart reservation price,77.0,79.3,73.74026,83.717949
+Claude,JPSP_9_1,519,Bracketing range,Counter offer,73.3,74.0,74.558442,85.358974
+Claude,JPSP_9_1,520,Backdown range,Anticipated settlement value,83.7,72.9,86.25974,83.051948
+Claude,JPSP_9_1,521,Backdown range,Assumed counterpart reservation price,77.0,68.1,73.74026,73.571429
+Claude,JPSP_9_1,522,Backdown range,Counter offer,73.3,65.4,74.558442,76.961039
+DeepSeek,JPSP_9_1,514,Bolstering range,Anticipated settlement value,83.7,89.1,87.532468,103.025641
+DeepSeek,JPSP_9_1,515,Bolstering range,Assumed counterpart reservation price,77.0,83.3,81.493506,96.025641
+DeepSeek,JPSP_9_1,516,Bolstering range,Counter offer,73.3,77.4,76.493506,94.551282
+DeepSeek,JPSP_9_1,517,Bracketing range,Anticipated settlement value,83.7,80.7,87.532468,96.0
+DeepSeek,JPSP_9_1,518,Bracketing range,Assumed counterpart reservation price,77.0,79.3,81.493506,87.820513
+DeepSeek,JPSP_9_1,519,Bracketing range,Counter offer,73.3,74.0,76.493506,89.358974
+DeepSeek,JPSP_9_1,520,Backdown range,Anticipated settlement value,83.7,72.9,87.532468,84.402597
+DeepSeek,JPSP_9_1,521,Backdown range,Assumed counterpart reservation price,77.0,68.1,81.493506,77.597403
+DeepSeek,JPSP_9_1,522,Backdown range,Counter offer,73.3,65.4,76.493506,77.766234

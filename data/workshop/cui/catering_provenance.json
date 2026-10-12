@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "file": "enhanced_dataset_GPT_main.csv",
+      "sha256": "06b9a520b4222d633c75f53a53adc66c2f8bfda776c17dd47355b38fb5de529c"
+    },
+    {
+      "file": "enhanced_dataset_Claude_main.csv",
+      "sha256": "a81cfbc24c3f6296cd32da037dcd210f195b7a6de11e112f10f0eb8b1a4ff229"
+    },
+    {
+      "file": "enhanced_dataset_DeepSeek_main.csv",
+      "sha256": "df0a1e53c84be39156c6142a3ffb6c3921fe9cfe25304d6cc095f9eb951d65a5"
+    }
+  ],
+  "changes": "Select JPSP_9_1; rename columns and condition labels; preserve condition means. Original inputs and provenance remain included.",
+  "human_reference": "Ames and Mason (2015), Table 1; rounded human means.",
+  "orientation": "range minus point, specified independently of the observed effect.",
+  "license": "No dataset licence declared by OSF; no new licence assigned."
+}

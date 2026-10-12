@@ -1,0 +1,22 @@
+# Private correspondence and notes
+/internal/
+
+# Original study archives stay local. Publish documented teaching extracts separately.
+/studies/
+/data/raw/
+/downloads/
+/build/
+/outputs/
+
+# Local credentials and Python environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS Finder metadata
+.DS_Store
